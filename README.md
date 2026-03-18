@@ -19,4 +19,10 @@ YMGWorksが設計した自作キーボードです。<br>
 
 ![image](https://github.com/user-attachments/assets/430619f8-f06f-4da4-a399-604c168bc6d3)
 
+![image](https://github.com/user-attachments/assets/2d805ebd-80a8-48e9-92a3-8c69df714e05)
+
+
+
+
+
 
