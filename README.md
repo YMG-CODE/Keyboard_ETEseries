@@ -11,6 +11,8 @@ YMGWorksが設計した自作キーボードです。<br>
 
 ![image](https://github.com/user-attachments/assets/f9ac827e-a960-4927-a1c8-6fa0d9b12bd6)
 
+![image](https://github.com/user-attachments/assets/ac4bae25-fdd9-4449-ba50-d6d299d5afb3)
+
 ![image](https://github.com/user-attachments/assets/38120b04-ab4d-4866-aa5e-be3cb0bedb18)
 
 ![image](https://github.com/user-attachments/assets/9fd60d0c-10b9-4012-a67e-bb0f6ce5798f)
