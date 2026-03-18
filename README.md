@@ -1,4 +1,6 @@
 # ETE_Ergo the End Series
+![image](https://github.com/user-attachments/assets/b0c5b22f-b2b5-47cb-be65-bd15ff9abf8b)
+
 ETE_Ergo The End keyboard, a split keyboard with  column staggered 62 keys and LED indicators.<br>
 
 # ETE_Ergo the End Seriesとは？<br>
